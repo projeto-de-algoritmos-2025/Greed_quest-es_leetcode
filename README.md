@@ -23,3 +23,25 @@ Linguagem: Python3
 
 
 ## 📸 Screenshots + Códigos
+
+## 📸 Screenshots + Códigos
+
+<h3><a href="https://leetcode.com/problems/gas-station/description/?envType=problem-list-v2&envId=greedy">134. Gas Station</a></h3>
+<img src="https://github.com/projeto-de-algoritmos-2025/Greed_quest-es_leetcode/blob/main/Exercicio_1/134gas.png?raw=true" width="500"/>
+<br>
+<a href="https://github.com/projeto-de-algoritmos-2025/Greed_quest-es_leetcode/blob/main/Exercicio_1/134_Gas_Station.py">📎 Ver Código</a>
+
+<h3><a href="https://leetcode.com/problems/container-with-most-water/description/?envType=problem-list-v2&envId=greedy">11. Container With Most Water</a></h3>
+<img src="https://github.com/projeto-de-algoritmos-2025/Greed_quest-es_leetcode/blob/main/Exercicio_2/11_container.png?raw=true" width="500"/>
+<br>
+<a href="https://github.com/projeto-de-algoritmos-2025/Greed_quest-es_leetcode/blob/main/Exercicio_2/11_Container_With_Most_Water.py">📎 Ver Código</a>
+
+<h3><a href="https://leetcode.com/problems/wildcard-matching/description/?envType=problem-list-v2&envId=greedy">44. Wildcard Matching</a></h3>
+<img src="https://github.com/projeto-de-algoritmos-2025/Greed_quest-es_leetcode/blob/main/Exercicio_3/44_wildcard.png?raw=true" width="500"/>
+<br>
+<a href="https://github.com/projeto-de-algoritmos-2025/Greed_quest-es_leetcode/blob/main/Exercicio_3/44_Wildcard_Matching.py">📎 Ver Código</a>
+
+<h3><a href="https://leetcode.com/problems/candy/description/?envType=problem-list-v2&envId=greedy">135. Candy</a></h3>
+<img src="https://github.com/projeto-de-algoritmos-2025/Greed_quest-es_leetcode/blob/main/Exercicio_4/135_candy.png?raw=true" width="500"/>
+<br>
+<a href="https://github.com/projeto-de-algoritmos-2025/Greed_quest-es_leetcode/blob/main/Exercicio_4/135_Candy.py">📎 Ver Código</a>

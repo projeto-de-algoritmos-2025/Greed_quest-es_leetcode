@@ -24,8 +24,6 @@ Linguagem: Python3
 
 ## 📸 Screenshots + Códigos
 
-## 📸 Screenshots + Códigos
-
 <h3><a href="https://leetcode.com/problems/gas-station/description/?envType=problem-list-v2&envId=greedy">134. Gas Station</a></h3>
 <img src="https://github.com/projeto-de-algoritmos-2025/Greed_quest-es_leetcode/blob/main/Exercicio_1/134gas.png?raw=true" width="500"/>
 <br>

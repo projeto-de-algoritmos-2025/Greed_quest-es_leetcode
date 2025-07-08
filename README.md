@@ -43,3 +43,18 @@ Linguagem: Python3
 <img src="https://github.com/projeto-de-algoritmos-2025/Greed_quest-es_leetcode/blob/main/Exercicio_4/135_candy.png?raw=true" width="500"/>
 <br>
 <a href="https://github.com/projeto-de-algoritmos-2025/Greed_quest-es_leetcode/blob/main/Exercicio_4/135_Candy.py">📎 Ver Código</a>
+
+## Gravação
+<a href="https://youtu.be/dRp-AkmJfjo" target="_blank">
+  <img src="https://img.youtube.com/vi/dRp-AkmJfjo/0.jpg" alt="Assista ao vídeo no YouTube" width="640">
+</a>
+
+
+
+## Instalação 
+**Linguagem**: Python3<br>
+
+```bash
+sudo apt update
+sudo apt install python3 python3-pip -y
+```

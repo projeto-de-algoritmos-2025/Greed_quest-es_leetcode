@@ -44,9 +44,9 @@ Linguagem: Python3
 <br>
 <a href="https://github.com/projeto-de-algoritmos-2025/Greed_quest-es_leetcode/blob/main/Exercicio_4/135_Candy.py">📎 Ver Código</a>
 
-## Gravação
-<a href="https://youtu.be/dRp-AkmJfjo" target="_blank">
-  <img src="https://img.youtube.com/vi/dRp-AkmJfjo/0.jpg" alt="Assista ao vídeo no YouTube" width="640">
+<p><strong>🎥 Demonstração em vídeo:</strong></p>
+<a href="https://youtu.be/XXj0teW7RNU" target="_blank">
+  <img src="https://img.youtube.com/vi/XXj0teW7RNU/0.jpg" alt="Assista ao vídeo no YouTube" width="640">
 </a>
 
 
